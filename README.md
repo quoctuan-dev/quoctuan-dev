@@ -1,6 +1,6 @@
 <!-- QuocTuandev -->
 <a href="#" target="_blank">
-  <img src="svg/quoctuandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/quoctuandev.svg" width="1200" alt="quoctuandev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
