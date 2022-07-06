@@ -55,16 +55,16 @@
   <a href="#" target="blank">
     <img width="90" height="90" src="images/logo.png" alt="quoctuandev-blog" />
   </a>
-  <a href="https://facebook.com/quoctuan.dev" target="blank">
+  <a href="https://facebook.com/quoctuan.dev" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quoctuandev-facebook" />
   </a>
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="quoctuandev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/quoctuandev/" target="blank">
+  <a href="https://www.linkedin.com/in/quoctuandev/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quoctuandev-linkedin" />
   </a>
-  <a href="https://www.instagram.com/quoctuandev" target="blank">
+  <a href="https://www.instagram.com/quoctuandev" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quoctuandev-instagram" />
   </a>
   <a href="mailto:tranquoctuan050399@gmail.com@gmail.com" target="top">
