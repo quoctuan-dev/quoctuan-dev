@@ -61,7 +61,7 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="quoctuandev-youtube" />
   </a>
-  <a href="www.linkedin.com/in/quoctuandev" target="blank">
+  <a href="https://www.linkedin.com/in/quoctuandev/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quoctuandev-linkedin" />
   </a>
   <a href="https://www.instagram.com/quoctuandev" target="blank">
