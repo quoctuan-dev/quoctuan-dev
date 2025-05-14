@@ -1,88 +1,76 @@
-# 👨‍💻 **Cyber Security Portfolio** by QuocTuanDev
+<!-- CyberSecurity - QuocTuanDev -->
+<a href="#" target="_blank">
+  <img src="svg/quoctuandev.svg" width="1200" alt="quoctuandev-cybersecurity" />
+</a>
 
-![CyberSecurity Header](https://your-image-link.com/header-image.svg)
+<h2 align="center">🛡 Cyber Security Tools & Technologies 🛡</h2>
+<br>
 
----
+<!-- Common CyberSecurity Tools -->
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Linux(Kali)-282C34?logo=linux&logoColor=FCC624" alt="Kali Linux" title="Kali Linux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nmap-282C34?logo=gnubash&logoColor=white" alt="Nmap" title="Nmap Network Scanner" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Burp Suite-282C34?logo=OWASP&logoColor=orange" alt="Burp Suite" title="Burp Suite" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Metasploit-282C34?logo=Metasploit&logoColor=white" alt="Metasploit" title="Metasploit Framework" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Wireshark-282C34?logo=wireshark&logoColor=1679A7" alt="Wireshark" title="Wireshark" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VirtualBox-282C34?logo=virtualbox&logoColor=white" alt="VirtualBox" title="VirtualBox" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Splunk-282C34?logo=splunk&logoColor=white" alt="Splunk" title="Splunk SIEM" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ELK Stack-282C34?logo=elastic&logoColor=005571" alt="ELK Stack" title="ElasticSearch, Logstash, Kibana" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TCPDump-282C34?logo=gnu&logoColor=white" alt="TCPDump" title="TCPDump" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git Version Control" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VSCode-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VSCode" title="VS Code" height="25" /></span>
+<br><br>
 
-## 🛡 **Cyber Security Tools & Technologies** 🛡
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<br>
+<div align="center">
+  <a href="#" title="Quoctuandev">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctuan-dev&hide=css,html,scss,typescript&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=000000&langs_count=8&layout=compact&border_color=00ffff&hide_border=true" />
+  </a>
+  <a href="#" title="Quoctuandev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=quoctuan-dev&show_icons=true&theme=react&border_color=00ffff&hide_border=true" />
+  </a>
+</div>
 
-### Commonly Used Tools:
-- 🐍 **[Python](https://www.python.org/)** - Most used scripting language for automation & exploits.
-- 🖥 **[Kali Linux](https://www.kali.org/)** - Popular Linux distribution for penetration testing.
-- 🧰 **[Metasploit](https://www.metasploit.com/)** - Framework for developing and executing exploits.
-- 🛠 **[Wireshark](https://www.wireshark.org/)** - Network protocol analyzer for traffic capture.
-- 🔎 **[Nmap](https://nmap.org/)** - Tool for network discovery and security auditing.
-- 🌐 **[Burp Suite](https://portswigger.net/burp)** - Integrated platform for web application security testing.
-- 🗂 **[Splunk](https://www.splunk.com/)** - Log analysis and SIEM tool for cyber threat detection.
-- 🔐 **[OWASP ZAP](https://www.zaproxy.org/)** - Open-source web application security scanner.
-- 💻 **[VirtualBox](https://www.virtualbox.org/)** - Virtualization tool for creating isolated testing environments.
+<br><br>
 
-### Programming & Scripting:
-- 🧑‍💻 **[C/C++](https://www.learn-c.org/)** - For low-level and exploit development.
-- 🔧 **[Bash](https://www.gnu.org/software/bash/)** - Scripting for task automation.
-- 📝 **[PowerShell](https://docs.microsoft.com/en-us/powershell/)** - Scripting language for Windows automation and penetration testing.
+<h2 align="center">🌐 Connect with me 🌐</h2>
+<div align="center">
+  <a href="#" target="_blank">
+    <img width="90" height="90" src="images/logo.png" alt="quoctuandev-logo" />
+  </a>
+  <a href="https://facebook.com/quoctuan.dev" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="YouTube" />
+  </a>
+  <a href="https://www.linkedin.com/in/quoctuandev/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/quoctuandev" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram" />
+  </a>
+  <a href="mailto:tranquoctuan050399@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Email" />
+  </a>
+</div>
 
----
+<br>
 
-## 💼 **GitHub Stats** 🔥
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quoctuan-dev&show_icons=true&theme=dark&border_color=00ff00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quoctuan-dev&hide=html,css,scss&langs_count=8&layout=compact&theme=dark&border_color=00ff00)
-
----
-
-## 🌐 **Connect with Me** 🌐
-
-- 📧 **Email**: [tranquoctuan050399@gmail.com](mailto:tranquoctuan050399@gmail.com)
-- 🧑‍💻 **LinkedIn**: [QuocTuanDev](https://www.linkedin.com/in/quoctuandev/)
-- 📱 **Instagram**: [@quoctuandev](https://www.instagram.com/quoctuandev)
-- 🗣 **Twitter**: [@QuocTuanDev](https://twitter.com/quoctuandev)
-- 🔴 **YouTube**: [QuocTuanDev Channel](https://www.youtube.com/channel/UCxyz)
-
----
-
-## 📜 **Favorite Cyber Security Quote** 📜
-
-> "Security is not a product, but a process." – Bruce Schneier
-
----
-
-## 💡 **Certifications** & **Writeups**:
-
-### 🏆 **Certifications:**
-- 🥇 **[OSCP](https://www.offensive-security.com/)** - Offensive Security Certified Professional
-- 🥈 **[CEH](https://www.eccouncil.org/)** - Certified Ethical Hacker
-- 🥉 **[CompTIA Security+](https://www.comptia.org/)** - Entry-level certification in IT security
-- 🏅 **[eJPT](https://www.elearnsecurity.com/)** - eLearnSecurity Junior Penetration Tester
-
----
-
-## 📑 **My Cyber Security Projects** 🔐
-
-- **[Penetration Testing Writeups](https://github.com/quoctuan-dev/pen-testing-writeups)**: A collection of writeups and walk-throughs of penetration testing challenges.
-- **[Capture The Flag (CTF) Solutions](https://github.com/quoctuan-dev/ctf-solutions)**: Solutions for various CTF challenges and exercises.
-
----
-
-## 🔧 **Tools Used for Development**:
-
-- 🖥 **[Visual Studio Code](https://code.visualstudio.com/)** - Code editor for scripting and development.
-- 🔐 **[Burp Suite](https://portswigger.net/burp)** - For web application security assessments.
-- 🌍 **[Git](https://git-scm.com/)** - Version control for managing source code.
-- 💾 **[Wireshark](https://www.wireshark.org/)** - For network traffic analysis.
-- 🏗 **[Docker](https://www.docker.com/)** - Containerization tool for creating isolated environments.
-
----
-
-## 🔗 **Additional Resources**:
-- **[OWASP](https://owasp.org/)**: Open Web Application Security Project for security resources.
-- **[Hack The Box](https://www.hackthebox.eu/)**: A platform for practicing penetration testing skills.
-
----
-
-### 🔗 **Portfolio Website**: [My Personal CyberSecurity Portfolio](https://www.quoctuandev.com)
-
----
-
-**Happy Hacking! 👨‍💻🔐**
+<h2 align="center">📜 Favorite Cyber Security Quote 📜</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/quoctuandev-quotes.svg" width="846" height="150" alt="CyberSecurity Quote" />
+</a>
